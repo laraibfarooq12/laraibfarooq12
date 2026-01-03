@@ -70,6 +70,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer" />
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=laraibfarooq12&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=laraibfarooq12&theme=tokyonight&no-bg=true&margin-w=4" alt="laraibfarooq12 trophies" />
 </div>
-
