@@ -1,21 +1,71 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on Developing logic-based projects using C++ and Python<br><br>👯 I’m looking to collaborate on Open-source Python scripts and beginner-friendly AI modules<br><br>🤝 I’m looking for help with Deepening my understanding of AI algorithms and Python automation<br><br>🌱 I’m currently learning The intersection of Artificial Intelligence and Data Structures in C++<br><br>💬 Ask me about Programming basics, Python, or my interest in AI technology<br><br>⚡ Fun fact I enjoy turning complex problems into clean, efficient code!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Laraib%20Farooq&fontSize=70&animation=fadeIn" />
+</div>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Laraib Farooq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laraib_farooq_0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laraib-farooq-857b) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@laraib.farooq7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laraibfarooq1094@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=laraibfarooq12&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=laraibfarooq12&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laraibfarooq12&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <h3> 💻 C++ & Python Developer | AI Enthusiast </h3>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=laraibfarooq12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me:
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
+* 🔭 I’m currently working on **Developing logic-based projects using C++ and Python**
+* 👯 I’m looking to collaborate on **Open-source Python scripts and AI modules**
+* 🤝 I’m looking for help with **Deepening my understanding of AI and Automation**
+* 🌱 I’m currently learning **The intersection of AI and Data Structures in C++**
+* 💬 Ask me about **Programming, Python, or AI technology**
+* ⚡ Fun fact **I enjoy turning complex problems into clean, efficient code!**
+
+---
+
+### 🌐 Connect with Me:
+<div align="center">
+  <a href="https://facebook.com/LaraibFarooq" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/laraib-farooq-857b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/laraib_farooq_0" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:laraibfarooq1094@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 💻 Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Analysis:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laraibfarooq12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraibfarooq12&theme=tokyonight&layout=compact&hide_border=true" />
+</div>
+
+---
+
+### ✍️ Wisdom for the Future:
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Sometimes%20it%20is%20the%20people%20no%20one%20can%20imagine%20anything%20of%20who%20do%20the%20things%20no%20one%20can%20imagine.&author=Alan%20Turing" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=laraibfarooq12&icon=0&color=0" />
+</div>
