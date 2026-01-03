@@ -51,8 +51,8 @@
 
 ### 📊 GitHub Analysis:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laraibfarooq12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraibfarooq12&theme=tokyonight&layout=compact&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=laraibfarooq12&theme=tokyonight&show_icons=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraibfarooq12&theme=tokyonight&layout=compact" />
 </div>
 
 ---
@@ -68,4 +68,4 @@
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=laraibfarooq12&icon=0&color=0" />
-</div> 
+</div>
