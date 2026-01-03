@@ -69,9 +69,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer" />
 </div>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laraibfarooq12&theme=tokyonight&hide_border=true" />
-</p>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=laraibfarooq12&theme=tokyonight&no-bg=true&margin-w=4" alt="laraibfarooq12 trophies" />
 </div>
