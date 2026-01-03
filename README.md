@@ -48,12 +48,16 @@
 </p>
 
 ---
-
 ### 📊 GitHub Analysis:
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=laraibfarooq12&theme=tokyonight&show_icons=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraibfarooq12&theme=tokyonight&layout=compact" />
-</div>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laraibfarooq12&theme=tokyonight" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laraibfarooq12&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laraibfarooq12&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
 
 ---
 
