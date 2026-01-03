@@ -8,7 +8,7 @@
 
 ---
 
-### 💫 About Me:
+
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 * 🔭 I’m currently working on **Developing logic-based projects using C++ and Python**
@@ -61,7 +61,7 @@
 
 ---
 
-### ✍️ Wisdom for the Future:
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Sometimes%20it%20is%20the%20people%20no%20one%20can%20imagine%20anything%20of%20who%20do%20the%20things%20no%20one%20can%20imagine.&author=Alan%20Turing" />
 </div>
