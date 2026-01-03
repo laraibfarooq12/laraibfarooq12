@@ -72,11 +72,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laraibfarooq12&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laraibfarooq12&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laraibfarooq12&theme=tokyonight&no-bg=true" />
-</p>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=laraibfarooq12&theme=tokyonight&no-bg=true&margin-w=4" alt="laraibfarooq12 trophies" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=laraibfarooq12&color=blue&style=for-the-badge" alt="Profile Views" />
+</div>
