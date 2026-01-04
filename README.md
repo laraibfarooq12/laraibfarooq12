@@ -6,13 +6,15 @@
 <h3 align="center">
 C++ • Python • AI Innovator • Logic Builder
 </h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Creative+Problem+Solver;AI+&+Data+Structures+Enthusiast;Turning+Ideas+into+Code;Learning+Step-by-Step" />
 </p>
-
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</p
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 <img align="right" width="320" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 
 ### 🌿 About Me
 
@@ -34,14 +36,18 @@ C++ • Python • AI Innovator • Logic Builder
 🚀 For me, programming is not just writing code — it’s a **creative journey**, where every problem solved is a step forward.  
 ✨ I aim to create projects that are **functional, logical, and aesthetically elegant**.
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</p>
 
 ## 💼 What I’m Currently Doing
 - Developing **logic-based projects** in C++ & Python  
 - Learning **AI concepts alongside Data Structures**  
 - Strengthening **algorithmic and problem-solving skills**  
 - Practicing **clean, professional coding habits**  
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</p>
 
 ## 💻 Tech Stack
 <p align="center">
@@ -55,8 +61,6 @@ C++ • Python • AI Innovator • Logic Builder
   
   <img src="https://img.shields.io/badge/Canva-8E77D1?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -85,7 +89,10 @@ C++ • Python • AI Innovator • Logic Builder
     <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</p
+  
 ## 📊 GitHub Analysis:
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laraibfarooq12&theme=tokyonight" height="150" />
@@ -97,7 +104,9 @@ C++ • Python • AI Innovator • Logic Builder
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=laraibfarooq12&theme=tokyonight&no-bg=true&v=1" alt="trophies" />
 </p>
-
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</p
 <div align="center">
   <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Work%20hard%20in%20silence%2C%20let%20your%20success%20be%20your%20noise.&author=Laraib%20Farooq" />
