@@ -41,8 +41,7 @@ C++ • Python • AI Innovator • Logic Builder
 - Learning **AI concepts alongside Data Structures**  
 - Strengthening **algorithmic and problem-solving skills**  
 - Practicing **clean, professional coding habits**  
-
----
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 ## 💻 Tech Stack
 <p align="center">
@@ -57,7 +56,7 @@ C++ • Python • AI Innovator • Logic Builder
   <img src="https://img.shields.io/badge/Canva-8E77D1?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
----
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -86,7 +85,7 @@ C++ • Python • AI Innovator • Logic Builder
     <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 ## 📊 GitHub Analysis:
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laraibfarooq12&theme=tokyonight" height="150" />
