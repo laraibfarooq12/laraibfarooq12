@@ -1,60 +1,61 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=190&section=header&text=Laraib%20Farooq&fontSize=68&fontColor=E5E7EB&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=190&section=header&text=Laraib%20Farooq&fontSize=72&fontColor=E5E7EB&animation=fadeIn" />
 </div>
 
 <h3 align="center">
-C++ • Python • AI Enthusiast • Problem Solver
+C++ • Python • AI Innovator • Logic Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Logic-Driven+Programmer;C%2B%2B+%26+Python+Developer;Learning+AI+with+Strong+Foundations;Thinking+Before+Coding"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Creative+Problem+Solver;AI+&+Data+Structures+Enthusiast;Turning+Ideas+into+Code;Learning+Step-by-Step" />
 </p>
 
 ---
 
-<img align="right" width="320"
-src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img align="right" width="320" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 ### 🌿 About Me
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Logic-Driven+Programmer;C%2B%2B+%26+Python+Developer;Learning+AI+with+Strong+Foundations;Thinking+Before+Coding"/>
 </p>
 
-👩‍💻 I am a **Computer Science student** who loves turning ideas into reality through code.  
-🧠 I strongly believe that programming is about **understanding logic and concepts deeply**, not copying solutions.
+👩‍💻 I am a **Computer Science student** passionate about turning ideas into reality through coding.  
+🧠 I believe programming is about **understanding logic and building solutions**, not copying.  
 
-💡 I mainly work with **C++ and Python**, focusing on:  
-- 🧩 building **strong problem-solving skills**  
-- ⚙️ writing **clean, readable, and efficient code**  
-- 🔍 understanding the **reason behind every solution**
+💡 I primarily work with **C++ and Python**, focusing on:  
+- 🧩 Developing strong **problem-solving skills**  
+- ⚙️ Writing **clean, efficient, and readable code**  
+- 🔍 Understanding the **reason behind every solution**  
 
-🤖 I have a growing interest in **Artificial Intelligence**, especially how algorithms, logic, and data structures combine to create smart systems.  
-🌱 I enjoy learning step by step, improving daily, and transforming complex problems into **simple and elegant solutions**.  
+🤖 I am fascinated by **Artificial Intelligence**, and how algorithms, logic, and data structures combine to form smart systems.  
+🌱 I love learning step by step and turning complex problems into **simple, elegant solutions**.  
 
-🚀 For me, programming is not just coding — it’s a **creative journey**.  
-✨ I aim to build things that are **functional, logical, and elegant**.
+🚀 For me, programming is not just writing code — it’s a **creative journey**, where every problem solved is a step forward.  
+✨ I aim to create projects that are **functional, logical, and aesthetically elegant**.
 
 ---
 
-## What I’m Currently Doing
+## 💼 What I’m Currently Doing
 - Developing **logic-based projects** in C++ & Python  
-- Learning **Data Structures alongside AI concepts**  
-- Improving **algorithmic thinking**  
-- Practicing clean coding habits  
+- Learning **AI concepts alongside Data Structures**  
+- Strengthening **algorithmic and problem-solving skills**  
+- Practicing **clean, professional coding habits**  
 
 ---
 
-## Tech Stack
-<p>
+## 💻 Tech Stack
+<p align="center">
   <img src="https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-1E40AF?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-9A3412?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/laraib-farooq-857b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -85,9 +86,27 @@ src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-gr
 
 ---
 
+## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=laraibfarooq12&theme=algolia&no-frame=true"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laraibfarooq12&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraibfarooq12&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 💬 Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Learning+never+stops;+code+with+purpose;+build+with+passion."/>
+</div>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=110&section=footer"/>
