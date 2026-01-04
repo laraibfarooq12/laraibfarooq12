@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E77D1&height=200&section=header&text=Laraib%20Farooq&fontSize=72&fontColor=8ecdf8&animation=fadeIn" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=8ecdf8&center=true&vCenter=true&width=800&height=100&lines=L+a+r+a+i+b++F+a+r+o+o+q;Laraib+Farooq&repeat=false" style="margin-top: -160px; position: relative;" />
+  </p>
 </div>
 
 <h3 align="center">
