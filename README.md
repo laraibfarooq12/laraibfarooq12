@@ -14,18 +14,23 @@ C++ • Python • AI Enthusiast • Problem Solver
 
 <img align="right" width="320"
 src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+### 🌿 About Me
 
-## About Me
-👩‍💻 I am a **Computer Science student** focused on building strong foundations in programming.  
-🧠 I believe real programming is about **logic, structure, and understanding**, not copying code.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Logic-Driven+Programmer;C%2B%2B+%26+Python+Developer;Learning+AI+with+Strong+Foundations;Thinking+Before+Coding"/>
+</p>
 
-💡I primarily work with **C++ and Python**, where my goals are to:
-- 🧩 build solid **problem-solving skills**
--⚙️ write **clean, readable, and efficient programs**
-- 🔍understand the **why behind every solution**
+👩‍💻 I am a **Computer Science student** who loves turning ideas into reality through code.  
+🧠 I strongly believe that programming is about **understanding logic and concepts deeply**, not copying solutions.
 
-🤖I have a growing interest in **Artificial Intelligence**, especially how data structures, algorithms, and logic come together to form intelligent systems.  
-🌱I prefer learning step-by-step and turning complex ideas into **simple, working solutions**.
+💡 I mainly work with **C++ and Python**, focusing on:  
+- 🧩 building **strong problem-solving skills**  
+- ⚙️ writing **clean, readable, and efficient code**  
+- 🔍 understanding the **reason behind every solution**
+
+🤖 I have a growing interest in **Artificial Intelligence**, especially how algorithms, logic, and data structures combine to create smart systems.  
+🌱 I enjoy learning step by step, improving daily, and transforming complex problems into **simple and elegant solutions**.  
+
 🚀 For me, programming is not just coding — it’s a **creative journey**.  
 ✨ I aim to build things that are **functional, logical, and elegant**.
 
