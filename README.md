@@ -107,9 +107,8 @@ C++ • Python • AI Innovator • Logic Builder
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laraibfarooq12&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laraibfarooq12&theme=tokyonight&no-bg=true&margin-w=10&v=jan5" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=laraibfarooq12&theme=tokyonight&no-bg=true&margin-w=20&time=12345" alt="trophies" />
 </p>
 
 <p align="center">
