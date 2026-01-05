@@ -104,24 +104,16 @@ C++ • Python • AI Innovator • Logic Builder
 </p>
   
 ## 📊 GitHub Analysis:
-<h2 align="left">📊 GitHub Analysis</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laraibfarooq12&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laraibfarooq12&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laraibfarooq12&theme=tokyonight" height="150" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laraibfarooq12&theme=tokyonight" height="150" alt="Language Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laraibfarooq12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=laraibfarooq12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=laraibfarooq12&show_icons=true&theme=tokyonight&title_color=8E77D1&icon_color=2DE0D7&hide_border=true" alt="Laraib's Stats" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=laraibfarooq12&bg_color=0D1117&color=8E77D1&line=8E77D1&point=2DE0D7&area=true&hide_border=true" />
-</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=laraibfarooq12&theme=tokyonight&no-bg=true&margin-w=20&time=12345" alt="trophies" />
 </p>
