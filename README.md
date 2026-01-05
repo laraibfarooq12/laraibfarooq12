@@ -35,9 +35,8 @@ C++ • Python • AI Innovator • Logic Builder
 
 🚀 For me, programming is not just writing code — it’s a **creative journey**, where every problem solved is a step forward.  
 ✨ I aim to create projects that are **functional, logical, and aesthetically elegant**.
-
 <p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8E77D1&height=2&section=header&reversal=true&animation=twinkling" width="100%" />
 </p>
 
 ## 💼 What I’m Currently Doing
@@ -110,6 +109,9 @@ C++ • Python • AI Innovator • Logic Builder
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=laraibfarooq12&theme=tokyonight&no-bg=true&v=1" alt="trophies" />
+</p>
+<p align="center">
+  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=laraibfarooq12&bg_color=000000&color=8E77D1&line=8E77D1&point=8ecdf8&area=true&hide_border=true" />
 </p>
 <p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
