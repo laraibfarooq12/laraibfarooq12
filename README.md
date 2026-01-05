@@ -60,6 +60,13 @@ C++ • Python • AI Innovator • Logic Builder
   <img src="https://img.shields.io/badge/CSS3-8ecdf8?style=for-the-badge&logo=css3&logoColor=black"/>
   
   <img src="https://img.shields.io/badge/Canva-8E77D1?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-8E77D1?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Git-8ecdf8?style=for-the-badge&logo=git&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/Windows-2DE0D7?style=for-the-badge&logo=windows&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ## 🌐 Connect With Me
