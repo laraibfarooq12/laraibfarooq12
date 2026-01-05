@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&pause=1000&color=8E77D1&center=true&vCenter=true&width=800&height=150&lines=L+a+r+a+i+b++F+a+r+o+o+q;Laraib+Farooq&repeat=false" alt="Laraib Farooq Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&pause=1000&color=8E77D1&center=true&vCenter=true&width=800&height=150&lines=Laraib+Farooq&repeat=false" alt="Laraib Farooq Typing" />
 </div>
-
 
 <h3 align="center">
 C++ • Python • AI Innovator • Logic Builder
