@@ -36,7 +36,7 @@ C++ • Python • AI Innovator • Logic Builder
 🚀 For me, programming is not just writing code — it’s a **creative journey**, where every problem solved is a step forward.  
 ✨ I aim to create projects that are **functional, logical, and aesthetically elegant**.
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8E77D1&height=2&section=header&reversal=true&animation=twinkling" width="100%" />
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </p>
 
 ## 💼 What I’m Currently Doing
