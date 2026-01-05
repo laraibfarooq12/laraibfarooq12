@@ -96,7 +96,12 @@ C++ • Python • AI Innovator • Logic Builder
 </p>
 <p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-</p
+</p>
+
+<h2>📊 My GitHub Journey</h2>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=laraibfarooq12&show_icons=true&theme=tokyonight&title_color=8E77D1&icon_color=2DE0D7&hide_border=true" alt="Laraib's Stats" />
+</p>
   
 ## 📊 GitHub Analysis:
 <p align="center">
